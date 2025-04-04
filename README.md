@@ -6,7 +6,7 @@ Welcome to **HACK-SHAK**, a place where creators, builders, and rebels unite to 
 
 I’m just an ordinary person who’s not a coding master but has a deep **hunger for knowledge** and a **will to learn**. I’ve spent my life working hard to understand things, and now I want to learn smarter, not harder. This project is **a labor of love** that comes from the desire to **build something meaningful** for the future, for those who come after us.
 
-I may not be an advanced coder (yet), but I have a vision to create something that anyone — from beginners to experienced users — can contribute to. This is not just about creating **AI** or a **website**; it’s about **building a community** where people of all levels can come together and **learn from each other**. If I can do it, you can too.
+I may not be an advanced coder (yet), but I have a vision to create something that anyone — from beginners to experienced users — can contribute to. This is not just about creating **AI** or a **website**; it’s about **building a community** where people of all levels can come together and **learn from each other**. If I can do it, you can too. "I want to take this moment to acknolage my nephew thehomebiscuit with out him i would not have gotten this far"  Thank "B" for putting up with my crazy idea's !
 
 ## Our Vision
 
